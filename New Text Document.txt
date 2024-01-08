@@ -15,9 +15,9 @@ git force push
 these commands I have to learn 
 IP : 245:0f:453:366
 MAC : 3478246
-<<<<<<< HEAD
+
 name : dharun
 =======
 hi this is the bug 1 remove this in the local
 hi this is the bug 2 remove this in the local
->>>>>>> 51bd9912b9d54e77f6f6add3ea3ab0dbe1f8915b
+
