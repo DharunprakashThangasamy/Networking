@@ -13,5 +13,5 @@ git commits
 git push 
 git force push
 these commands I have to learn 
-IP : address
+IP : 245:0f:453:366
 MAC : address
