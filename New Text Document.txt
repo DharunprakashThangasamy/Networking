@@ -6,7 +6,7 @@ remote repository
 local repostiory
 staging area
 git reset 
-git cherry pick
+git cherry-pick
 git diff
 git logs
 git commits
@@ -14,4 +14,12 @@ git push
 git force push
 these commands I have to learn 
 IP : 245:0f:453:366
-MAC : address
+MAC : 3478246
+
+name : dharun
+=======
+hi this is the bug 1 remove this in the local
+hi this is the bug 2 remove this in the local
+bug - three
+
+bug - four
