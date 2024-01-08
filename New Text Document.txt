@@ -15,3 +15,4 @@ git force push
 these commands I have to learn 
 IP : 245:0f:453:366
 MAC : 3478246
+name : dharun
