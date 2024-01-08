@@ -1,0 +1,17 @@
+Added the git commands
+git push 
+git pull
+git fetch
+remote repository 
+local repostiory
+staging area
+git reset 
+git cherry pick
+git diff
+git logs
+git commits
+git push 
+git force push
+these commands I have to learn 
+IP : address
+MAC : address
